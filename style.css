@@ -1,0 +1,21 @@
+body {
+background-size: 65%;
+}
+
+#h3heading {
+    width: 100%;
+    margin-top: 0px;
+}
+
+.start {
+    width: 100px;
+}
+
+.song_name {
+    background-color: blueviolet;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+}
